@@ -50,7 +50,6 @@ fc2
 xhamster
 tumblr
 pinterest
-amazon
 tiktok
 pornhub
 xvideos
@@ -59,7 +58,6 @@ imgur
 imdb
 whatsapp
 spotify
-amazonaws
 dailymotion
 github
 quora

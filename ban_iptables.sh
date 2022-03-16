@@ -46,7 +46,6 @@ bing
 instagram
 zoom.us
 twitch.tv
-fc2
 xhamster
 tumblr
 pinterest
@@ -62,8 +61,6 @@ dailymotion
 github
 quora
 medium
-bbc.uk
-bbc
 nytimes
 vimeo
 theguardian
